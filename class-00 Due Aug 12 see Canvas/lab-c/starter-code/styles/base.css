@@ -1,0 +1,21 @@
+body {
+    background-color: #242;
+  }
+
+p {
+    font-family: 'Ropa Sans', sans-serif;
+    color: #eee;
+    font-size: 1.05em;
+    line-height: 1.5em;
+    padding: 10px;
+    /*width: 700px;*/
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  * {
+    color: gold;
+    font-family: 'Helvetica';
+    /*outline: 1px dashed white;*/
+  }
+  
